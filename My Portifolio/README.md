@@ -43,11 +43,11 @@ Software Development, and Creative Design**.
 
 ### 1. Clone the repository
 
-    git clone https://github.com/PortiaAkanvam/your-repo-name.git
+   https://github.com/PortiaAkanvam/Portfolio-Page.git
 
 ### 2. Navigate into the project folder
 
-    cd your-repo-name
+    Portfolio-Page
 
 ### 3. Open the project
 
